@@ -1,0 +1,6 @@
+-r requirements.in
+pip-tools
+pylint
+mypy
+flake8
+docutils
